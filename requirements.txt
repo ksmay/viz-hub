@@ -6,3 +6,4 @@ plotly_express
 streamlit-authenticator
 pyyaml
 pyecharts
+streamlit-echarts
